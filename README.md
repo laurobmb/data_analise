@@ -18,3 +18,4 @@ Esse projeto não tem ligação direta com procedimento interno da Justiça Bras
 - python analise_justicas.py --help
 - python analise_justicas.py -j JFPE
 
+[![Exemplo](https://github.com/laurobmb/data_analise/blob/master/Numeros.png "Exemplo")](https://github.com/laurobmb/data_analise/blob/master/Numeros.png "Exemplo")
