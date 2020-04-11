@@ -86,7 +86,7 @@ def main():
         print(args.justica)
         dados(args.justica)
     else:
-        print("python analise_justicas.py --help")
+        print("python analise.py --help")
 
 if __name__ == '__main__':
     main()    
